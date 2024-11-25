@@ -11,11 +11,6 @@ Entrando no mundo da programação front-end, menos de 1 ano de experiência
 
 <a href="https://github.com/Jabiroca1337/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabiroca1337&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-### Projetos
-<a href="https://github.com/Jabiroca1337/Variavel.git">
-  
-<br />
-
 ### Contato
 
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/guts_123_ofc/)
