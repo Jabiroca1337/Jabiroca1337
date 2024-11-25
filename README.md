@@ -12,7 +12,7 @@ Entrando no mundo da programação front-end, menos de 1 ano de experiência
 <a href="https://github.com/Jabiroca1337/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabiroca1337&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ### Projetos
-<a href="https://github.com/Jabiroca1337/github-readme-stats">
+<a href="https://github.com/Jabiroca1337/Variavel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiroca1337&repo=github-readme-stats&theme=buefy" />
 </a>
 
