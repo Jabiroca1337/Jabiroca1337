@@ -13,13 +13,7 @@ Entrando no mundo da programação front-end, menos de 1 ano de experiência
 
 ### Projetos
 <a href="https://github.com/Jabiroca1337/Variavel.git">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Jabiroca1337&repo=github-readme-stats&theme=buefy]" />
-</a>
-
-<a href="https://github.com/Jabiroca1337/Jabiroca1337.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiroca1337&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
+  
 <br />
 
 ### Contato
