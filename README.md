@@ -5,6 +5,5 @@ Entrando no mundo da programação front-end, menos de 1 ano de experiência
 
 ### Detalhers
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Jabiroca1337&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
-
+[![Anurag's GitHub state](<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |)
 
