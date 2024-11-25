@@ -10,6 +10,9 @@ Entrando no mundo da programação front-end, menos de 1 ano de experiência
 ### Linguagens usadas
 <a href="https://github.com/Jabiroca1337/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabiroca1337&layout=compact&theme=buefy&hide_border=true" /></a> 
 
+[![Readme Card](httpsgithub-readme-stats.vercel.app/api/pin/?username=Jabiroca1337&repo=variavel&theme=dark)](https://github.com/Jabiroca1337?tab=repositories)
+
+
 ### Contato
 
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/guts_123_ofc/)
